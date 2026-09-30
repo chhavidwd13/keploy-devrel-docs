@@ -56,13 +56,13 @@ export default function Page() {
                 </div>
                 <div className="flex items-center gap-2 shrink-0">
                   <a
-                    href="https://github.com/keploy/keploy"
+                    href="https://github.com/chhavidwd13/keploy-devrel-docs"
                     target="_blank"
                     rel="noreferrer"
                     className="flex items-center gap-1.5 px-3 py-1.5 rounded-lg border border-zinc-200 dark:border-zinc-800 bg-white dark:bg-zinc-800 text-xs font-medium text-zinc-700 dark:text-zinc-200 hover:bg-zinc-100 dark:hover:bg-zinc-700 transition-colors"
                   >
                     <GithubIcon className="w-3.5 h-3.5" />
-                    <span>Keploy Repo</span>
+                    <span>Project Repo</span>
                   </a>
                   <a
                     href="https://keploy.io/docs"
