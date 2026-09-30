@@ -6,7 +6,7 @@
 ---
 
 ## 🚀 Live Demo & Repository
-* **Live Deployment:** [Deploy on Vercel](https://vercel.com) *(Paste your Vercel URL here)*
+* **Live Deployment:** [https://keploy-devrel-docs.vercel.app/](https://keploy-devrel-docs.vercel.app/)
 * **Source Code:** [GitHub Repository](https://github.com/chhavidwd13/keploy-devrel-docs)
 
 ---
